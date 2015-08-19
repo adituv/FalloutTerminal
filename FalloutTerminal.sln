@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalloutTerminal", "FalloutTerminal\FalloutTerminal.csproj", "{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Locale Japanese|Any CPU = Locale Japanese|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Show Version|Any CPU = Show Version|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Locale Japanese|Any CPU.ActiveCfg = Locale Japanese|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Locale Japanese|Any CPU.Build.0 = Locale Japanese|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Show Version|Any CPU.ActiveCfg = Show Version|Any CPU
+		{B5B7FC69-82E8-4BEA-9FFA-D5B6EB198059}.Show Version|Any CPU.Build.0 = Show Version|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
