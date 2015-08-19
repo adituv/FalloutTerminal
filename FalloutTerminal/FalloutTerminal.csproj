@@ -120,12 +120,21 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="WordsData.cs" />
+    <None Include="..\LICENSE">
+      <Link>LICENSE</Link>
+    </None>
     <None Include="FalloutTerminal_TemporaryKey.pfx" />
+    <EmbeddedResource Include="frmEdit.en.resx">
+      <DependentUpon>frmEdit.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmEdit.ja.resx">
       <DependentUpon>frmEdit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmEdit.resx">
       <DependentUpon>frmEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.en.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.ja.resx">
       <DependentUpon>frmMain.cs</DependentUpon>

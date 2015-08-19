@@ -117,242 +117,56 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;btnFilterWords.Name" xml:space="preserve">
-    <value>btnFilterWords</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lblNextGuessValue.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;nudCharacterMatches.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblEditText.Name" xml:space="preserve">
-    <value>lblEditText</value>
-  </data>
-  <data name="&gt;&gt;lblNextGuessValue.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lblNextGuess.Text" xml:space="preserve">
-    <value>Next guess:</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 23</value>
-  </data>
-  <data name="lstAvailableWords.Size" type="System.Drawing.Size, System.Drawing">
-    <value>435, 238</value>
-  </data>
-  <data name="btnFilterWords.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="btnFilterWords.Text" xml:space="preserve">
-    <value>OK</value>
-  </data>
-  <data name="&gt;&gt;lstAvailableWords.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnReset.Text" xml:space="preserve">
-    <value>Reset</value>
-  </data>
-  <data name="&gt;&gt;lblCharacterMatches.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btnReset.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btnReset.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lblCharacterMatches.AutoSize" type="System.Boolean, mscorlib">
+  <data name="lblWordSelect.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lblNextGuessValue.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 13</value>
-  </data>
-  <data name="lblNextGuess.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 13</value>
-  </data>
-  <data name="&gt;&gt;lblNextGuessValue.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="lblCharacterMatches.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="lblEditText.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>475, 300</value>
-  </data>
-  <data name="&gt;&gt;btnFilterWords.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;lblNextGuess.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lblWordSelect.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblWordSelect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 16</value>
   </data>
   <data name="lblWordSelect.Size" type="System.Drawing.Size, System.Drawing">
     <value>36, 13</value>
   </data>
-  <data name="lblNextGuess.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 285</value>
-  </data>
-  <data name="nudCharacterMatches.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 20</value>
-  </data>
-  <data name="lblEditText.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 153</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="&gt;&gt;btnFilterWords.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="nudCharacterMatches.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
-    <value>Right</value>
-  </data>
-  <data name="&gt;&gt;lblWordSelect.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lblCharacterMatches.Size" type="System.Drawing.Size, System.Drawing">
-    <value>51, 13</value>
-  </data>
-  <data name="lstAvailableWords.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 40</value>
-  </data>
-  <data name="lblCharacterMatches.Location" type="System.Drawing.Point, System.Drawing">
-    <value>197, 16</value>
-  </data>
-  <data name="&gt;&gt;lblWordSelect.Name" xml:space="preserve">
-    <value>lblWordSelect</value>
-  </data>
-  <data name="cmbWordSelect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 21</value>
-  </data>
-  <data name="&gt;&gt;lblWordSelect.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="lblNextGuess.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;lblEditText.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="cmbWordSelect.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lblCharacterMatches.Name" xml:space="preserve">
-    <value>lblCharacterMatches</value>
-  </data>
-  <data name="&gt;&gt;nudCharacterMatches.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
-    <value>380, 11</value>
-  </data>
-  <data name="lblEditText.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="lblCharacterMatches.Text" xml:space="preserve">
-    <value>Matches:</value>
-  </data>
-  <data name="&gt;&gt;cmbWordSelect.Name" xml:space="preserve">
-    <value>cmbWordSelect</value>
-  </data>
-  <data name="&gt;&gt;lblCharacterMatches.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lblWordSelect.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;lstAvailableWords.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;lblEditText.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="btnFilterWords.Location" type="System.Drawing.Point, System.Drawing">
-    <value>307, 11</value>
-  </data>
-  <data name="nudCharacterMatches.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
-  </data>
-  <data name="&gt;&gt;nudCharacterMatches.Name" xml:space="preserve">
-    <value>nudCharacterMatches</value>
-  </data>
-  <data name="&gt;&gt;cmbWordSelect.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;nudCharacterMatches.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;lblWordSelect.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnReset.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblNextGuessValue.Name" xml:space="preserve">
-    <value>lblNextGuessValue</value>
-  </data>
-  <data name="lblNextGuessValue.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
-  </data>
-  <data name="lblEditText.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 13</value>
-  </data>
-  <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
-    <value>btnReset</value>
-  </data>
-  <data name="cmbWordSelect.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;btnFilterWords.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;lblCharacterMatches.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="nudCharacterMatches.Location" type="System.Drawing.Point, System.Drawing">
-    <value>254, 14</value>
-  </data>
-  <data name="&gt;&gt;lblNextGuessValue.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lblEditText.Text" xml:space="preserve">
-    <value>(Edit...)</value>
+  <data name="lblWordSelect.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="lblWordSelect.Text" xml:space="preserve">
     <value>Word:</value>
   </data>
-  <data name="lblEditText.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;lblWordSelect.Name" xml:space="preserve">
+    <value>lblWordSelect</value>
   </data>
-  <data name="lblNextGuessValue.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;lblEditText.Type" xml:space="preserve">
+  <data name="&gt;&gt;lblWordSelect.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnReset.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
+  <data name="&gt;&gt;lblWordSelect.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblWordSelect.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cmbWordSelect.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
   </data>
   <data name="cmbWordSelect.Location" type="System.Drawing.Point, System.Drawing">
     <value>54, 13</value>
   </data>
-  <data name="lstAvailableWords.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="cmbWordSelect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 21</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>frmMain</value>
+  <data name="cmbWordSelect.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;cmbWordSelect.Name" xml:space="preserve">
+    <value>cmbWordSelect</value>
+  </data>
+  <data name="&gt;&gt;cmbWordSelect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmbWordSelect.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;cmbWordSelect.ZOrder" xml:space="preserve">
     <value>7</value>
@@ -360,64 +174,247 @@
   <data name="lblCharacterMatches.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <data name="&gt;&gt;lstAvailableWords.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="lblCharacterMatches.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCharacterMatches.Location" type="System.Drawing.Point, System.Drawing">
+    <value>197, 16</value>
+  </data>
+  <data name="lblCharacterMatches.Size" type="System.Drawing.Size, System.Drawing">
+    <value>51, 13</value>
+  </data>
+  <data name="lblCharacterMatches.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblCharacterMatches.Text" xml:space="preserve">
+    <value>Matches:</value>
+  </data>
+  <data name="&gt;&gt;lblCharacterMatches.Name" xml:space="preserve">
+    <value>lblCharacterMatches</value>
+  </data>
+  <data name="&gt;&gt;lblCharacterMatches.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCharacterMatches.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblCharacterMatches.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="nudCharacterMatches.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="nudCharacterMatches.Location" type="System.Drawing.Point, System.Drawing">
+    <value>254, 14</value>
+  </data>
+  <data name="nudCharacterMatches.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 20</value>
   </data>
   <data name="nudCharacterMatches.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;cmbWordSelect.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="nudCharacterMatches.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
   </data>
-  <data name="&gt;&gt;lstAvailableWords.Name" xml:space="preserve">
-    <value>lstAvailableWords</value>
+  <data name="&gt;&gt;nudCharacterMatches.Name" xml:space="preserve">
+    <value>nudCharacterMatches</value>
+  </data>
+  <data name="&gt;&gt;nudCharacterMatches.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nudCharacterMatches.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nudCharacterMatches.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="btnFilterWords.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <data name="&gt;&gt;lblNextGuess.Name" xml:space="preserve">
-    <value>lblNextGuess</value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblEditText.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Terminal Hacking</value>
-  </data>
-  <data name="lblNextGuessValue.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 285</value>
-  </data>
-  <data name="&gt;&gt;lblNextGuess.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="lblWordSelect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 16</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>459, 307</value>
-  </data>
-  <data name="lblNextGuess.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lblNextGuess.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Left</value>
+  <data name="btnFilterWords.Location" type="System.Drawing.Point, System.Drawing">
+    <value>307, 11</value>
   </data>
   <data name="btnFilterWords.Size" type="System.Drawing.Size, System.Drawing">
     <value>67, 23</value>
   </data>
-  <data name="&gt;&gt;lblNextGuess.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="btnFilterWords.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnFilterWords.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="&gt;&gt;btnFilterWords.Name" xml:space="preserve">
+    <value>btnFilterWords</value>
+  </data>
+  <data name="&gt;&gt;btnFilterWords.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnFilterWords.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnFilterWords.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="lstAvailableWords.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
+  <data name="lstAvailableWords.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 40</value>
+  </data>
+  <data name="lstAvailableWords.Size" type="System.Drawing.Size, System.Drawing">
+    <value>435, 238</value>
+  </data>
+  <data name="lstAvailableWords.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lstAvailableWords.Name" xml:space="preserve">
+    <value>lstAvailableWords</value>
+  </data>
+  <data name="&gt;&gt;lstAvailableWords.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstAvailableWords.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lstAvailableWords.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnReset.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>380, 11</value>
+  </data>
+  <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 23</value>
+  </data>
+  <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
+    <value>btnReset</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnReset.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblEditText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblEditText.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lblEditText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 153</value>
+  </data>
+  <data name="lblEditText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 13</value>
+  </data>
+  <data name="lblEditText.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="lblEditText.Text" xml:space="preserve">
+    <value>(Edit...)</value>
+  </data>
+  <data name="lblEditText.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lblEditText.Name" xml:space="preserve">
+    <value>lblEditText</value>
+  </data>
+  <data name="&gt;&gt;lblEditText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblEditText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblEditText.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblNextGuess.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="lblNextGuess.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblNextGuess.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 285</value>
+  </data>
+  <data name="lblNextGuess.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 13</value>
+  </data>
+  <data name="lblNextGuess.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="lblNextGuess.Text" xml:space="preserve">
+    <value>Next guess:</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuess.Name" xml:space="preserve">
+    <value>lblNextGuess</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuess.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuess.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuess.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblNextGuessValue.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblNextGuessValue.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
+  <data name="lblNextGuessValue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 285</value>
+  </data>
+  <data name="lblNextGuessValue.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 13</value>
+  </data>
+  <data name="lblNextGuessValue.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuessValue.Name" xml:space="preserve">
+    <value>lblNextGuessValue</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuessValue.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuessValue.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblNextGuessValue.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>459, 307</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>475, 300</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>u</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
