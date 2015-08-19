@@ -30,8 +30,8 @@ change the 'Language' property to your target language.  Now edit the text on
 the form to contain your translation, and rearrange the user interface slightly
 to make it more attractive:
 
-![Screenshot in English](http://i.imgur.com/N6618Ug.png)
-![Screenshot in Japanese](http://i.imgur.com/9LsUj8t.png)
+![Screenshot in English](http://i.imgur.com/N6618Ug.png) | ![Screenshot in Japanese](http://i.imgur.com/9LsUj8t.png)
+---------------------------|---------------------------------
 
 [Direct comparison](http://imgur.com/a/X5zqX)
 
